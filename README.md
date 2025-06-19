@@ -1,5 +1,5 @@
 ## 안녕하세요 👋
-- 가천대학교 인공지능학과 25학번(학종)
+- 가천대학교 인공지능학과 25학번
 <!--
 **seungund/seungund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
